@@ -1,0 +1,64 @@
+.gambarbg{
+    background-image: url('gambar2.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+.ketikan{
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+    line-height: 500px;
+}
+
+.ketikan:hover{
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-decoration: underline;
+    line-height: 500px;
+}
+
+
+.satu:hover{
+    text-align: center;
+    background-color: blueviolet;
+    color: burlywood;
+    font-size: 50px;
+}
+
+.dua:active{
+    background-color: blueviolet;
+    color: burlywood;
+}
+
+.tiga:hover{
+    background-color: darkcyan;
+    line-height: 35px;
+    text-align: center;
+}
+
+.empat:hover{
+    background-color: gold;
+    line-height: 35px;
+    text-align: center;
+}
+
+.lima:hover{
+    background-color: indigo;
+    line-height: 35px;
+    text-align: center;
+}
+
+.enam:hover{
+    background-color: deeppink;
+    color: orchid;
+    text-align: center;
+    line-height: 35px;
+}

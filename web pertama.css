@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #eaeaea;
+    color: #333;
+}
+
+.container{
+    width: 800px;
+    background: #fff;
+    margin: auto;
+}
+
+.header{
+    padding: 15px;
+    padding-bottom: 10px;
+}
+
+.header .judul:hover{
+    font-size: 40px;
+    color: deepskyblue;
+    background-color: indianred;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.header .judul span:hover{
+        color: blue;
+        background-color: gold;
+        text-align: center;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.tir {
+    color: blueviolet;
+}
+
+.header a {
+    text-decoration: none;
+    color: salmon;
+    padding: 4px;
+}
+
+.header a:hover{
+    background-color: blue;
+    color: #fff;
+}
+
+.banner{
+    height: 350px;
+    background-image: url(gambar.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top: 5px solid lightgreen;
+    border-bottom: 5px solid orange;
+}
+
+.content{
+    padding: 20px;
+}
+
+.content h2 {
+      font-size: 28px;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.content .penulis{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content .penulis a {
+       color: salmon;
+       text-decoration: none;
+       font-weight: bold;
+}
+
+.content p {
+    margin-bottom: 20px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.footer{
+    background-color: royalblue;
+    padding: 15px;
+}
+
+.footer .copyright:hover {
+    text-align: center;
+    color: aquamarine;
+    font-weight: bold;
+}
