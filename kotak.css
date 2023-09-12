@@ -1,0 +1,303 @@
+.judul{
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 52px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.hihi{
+    background-color: blueviolet;
+    height: 450px;
+}
+
+.hehe{
+    margin-inline: 9px;
+}
+
+.kotaka{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakb{
+    display: inline-block;
+    background-color: azure;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakc{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakd{
+    display: inline-block;
+    background-color: aqua;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotake{
+    display: inline-block;
+    background-color: aliceblue;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakf{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakg{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakh{
+    display: inline-block;
+    background-color: aliceblue;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotaki{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakj{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakk{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakl{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakm{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakn{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotako{
+    display: inline-block;
+    background-color: white;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakp{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakq{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakr{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotaks{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakt{
+   display: inline-block;
+   background-color: aqua;
+   color: #000;
+   height: 85px;
+   width: 95px;
+   margin-right: 10px;
+   text-align: center;
+   line-height: 75px;
+}
+
+.kotaku{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakv{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right:9px ;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakw{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 8px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakx{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotaky{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 9px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.kotakz{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #000;
+    height: 85px;
+    width: 95px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 75px;
+}
